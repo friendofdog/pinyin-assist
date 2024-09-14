@@ -1,0 +1,19 @@
+{
+  "name": "pinyin-assist",
+  "version": "1.0.0",
+  "description": "Text editor for automatically displaying pinyin for Chinese vocabulary",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friendofdog/pinyin-assist.git"
+  },
+  "author": "Kevin Kee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/friendofdog/pinyin-assist/issues"
+  },
+  "homepage": "https://github.com/friendofdog/pinyin-assist#readme"
+}
